@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.ua.smm-studio.app"
+    id          = "com.ua.toursite.app"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
-<name>ТЕСТ. smm-studio.com.ua</name>
+<name>ТЕСТ. toursite.com.ua</name>
 
 <description>
     Тестовое описание для тестового приложения
